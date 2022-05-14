@@ -1,5 +1,6 @@
-フロントエンドエンジニアを目指し、日々勉強しています。
-製作物を見ていただけると幸いです。
+フロントエンドエンジニアを目指し、日々勉強しています。<br>
+学んだことのアウトプットとして、WEBサイトを何点か製作し公開しています。
+自主学習の成果物として見ていただけますと幸いです。
 
 Hi, I'm Ryosuke.
 I have been putting a lot of efforts into studying front-end languages these days to become a front-end engineer.
